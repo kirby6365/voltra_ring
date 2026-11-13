@@ -1,0 +1,6 @@
+.pio/
+.vscode/
+*.pyc
+__pycache__/
+# preview written by tools/gen_icons.py --preview
+icons.png
